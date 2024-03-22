@@ -1,0 +1,7 @@
+[user]
+	email = carter.newhouse@gmail.com
+	name = Carter Newhouse
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
